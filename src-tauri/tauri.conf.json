@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "atlas-erp",
+  "productName": "Atlas ERP",
   "version": "0.1.0",
   "identifier": "com.vpotech.atlas-erp",
   "build": {
@@ -12,9 +12,11 @@
   "app": {
     "windows": [
       {
-        "title": "atlas-erp",
+        "title": "Atlas ERP",
         "width": 800,
-        "height": 600
+        "height": 600,
+        "center": true,
+        "resizable": true
       }
     ],
     "security": {
