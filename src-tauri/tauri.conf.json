@@ -13,10 +13,13 @@
     "windows": [
       {
         "title": "Atlas ERP",
-        "width": 800,
-        "height": 600,
+        "width": 1280,
+        "height": 800,
+        "minWidth": 1024,
+        "minHeight": 720,
         "center": true,
-        "resizable": true
+        "resizable": true,
+        "maximized": false
       }
     ],
     "security": {
